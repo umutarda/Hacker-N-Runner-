@@ -22,7 +22,7 @@ only when being catched by player's hook.
 
 ![image](https://user-images.githubusercontent.com/52600067/187773930-2a825523-8515-4c30-b25b-3203661e25ce.png)
 
-EnemyGun class is a representative of hack object. EnemyGun is a gun carried by cars. The EnemyGun hack game was thought to be winnable by doing prompted movement
+EnemyGun class is a representative of hack object. EnemyGun is a gun carried by cars. The EnemyGun hack game was thought to be winnable by doing prompted movements
 in the right way. For example 0th movement "right" means drawing a line whose slope is 0 degree +- AngleErrorMargin,
 1st movement "left" means drawing a line whose slope is 180 degrees +- AngleErrorMargin, and so on.
 
